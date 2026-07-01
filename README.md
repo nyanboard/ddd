@@ -1,3 +1,5 @@
+https://github.com/Cocoon-AI/architecture-diagram-generator
+
 软件系统开发全流程
 按时间顺序梳理：每一步谁主导、负责什么，并标注并行的角色。 图例：███ = 主要工作　◇ = 参与 / 把关 / 产出
 
